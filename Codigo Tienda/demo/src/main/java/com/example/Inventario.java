@@ -67,4 +67,4 @@ public class Inventario {
     public void setProductos(List<Producto> productos) {
         this.productos = productos;
     }
-}
+}//fin
